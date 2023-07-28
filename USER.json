@@ -1,0 +1,52 @@
+[{
+ "enable": true,
+ "alias": "君舟",
+ "phone": "18339730891",
+ "password": "Yuyang521",
+ "deviceType": "Xiaomi|Mi 13|13",
+ "randomLocation": false,
+ "deviceId": "b472f3eff7c6490bb5dcf312e412c69b0868",
+ "address": "河南省郑州市郑东新区新郑市双湖大道华翔国贸1216",
+ "longitude": "34.611259",
+ "latitude": "113.681492",
+ "pushKey": "推送Key"
+}
+{
+ "enable": true,
+ "alias": "贺静怡",
+ "phone": "15238979592",
+ "password": "hjy20020302",
+ "deviceType": "Xiaomi|Mi 10|10",
+ "randomLocation": false,
+ "deviceId": "5fdb415f77cf4d20ab9a995f76cddb49ca2e",
+ "address": "河南省郑州市郑东新区新郑市双湖大道华翔国贸1216",
+ "longitude": "34.611259",
+ "latitude": "113.681492",
+ "pushKey": "推送Key"
+}
+{
+ "enable": true,
+ "alias": "钟政",
+ "phone": "18836421328",
+ "password": "Zz08173319.",
+ "deviceType": "Xiaomi|Mi 10|10",
+ "randomLocation": false,
+ "deviceId": "5fdb415f77cf4d20ab9a995f76cddb49ca2e",
+ "address": "河南省郑州市郑东新区新郑市双湖大道华翔国贸1216",
+ "longitude": "34.611259",
+ "latitude": "113.681492",
+ "pushKey": "推送Key"
+}
+{
+ "enable": true,
+ "alias": "廉涵",
+ "phone": "13838945944",
+ "password": "13838945944qwe",
+ "deviceType": "Xiaomi|Mi 10|10",
+ "randomLocation": false,
+ "deviceId": "5fdb415f77cf4d20ab9a995f76cddb49ca2e",
+ "address": "河南省郑州市郑东新区新郑市双湖大道华翔国贸1216",
+ "longitude": "34.611259",
+ "latitude": "113.681492",
+ "pushKey": "推送Key"
+}]
